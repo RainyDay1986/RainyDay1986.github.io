@@ -28,3 +28,4 @@ codekit-config.json
 _asset_bundler_cache
 _site
 _posts/2021-10-11-first.md
+_data/navigation.yml
