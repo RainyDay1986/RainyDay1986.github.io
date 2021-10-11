@@ -3,5 +3,5 @@ title: "Category"
 layout: categories
 permalinks: /categories/ 
 author_profile: true
-sidebar: true
+sidebar_main: true
 ---
